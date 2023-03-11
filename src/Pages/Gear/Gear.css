@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+    .lavel {
+        display: grid;
+        grid-template-columns: 1;
+    }
+    .grid{
+        margin-left: 32px;
+    }
+    .global{
+        font-size: 8px;
+        
+    }
+    .break{
+      
+    }
+    .pipe{
+        width: 30%;
+    }
+    .extra{
+        visibility: hidden;
+    }
+    .nav{
+     margin-left: 10%;   
+    }
+  }
